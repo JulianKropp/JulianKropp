@@ -1,6 +1,6 @@
-<img src="assets/portrait.webp" alt="Julian Kropp" width="170" align="right">
-
 # Hi, I'm Julian 👋
+
+<img src="assets/portrait.webp" alt="Julian Kropp" width="150" align="right">
 
 **IT & Innovation. Software, hardware, AI: I connect what belongs together.**
 
