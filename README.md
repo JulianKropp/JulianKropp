@@ -4,9 +4,10 @@
 
 **IT & Innovation. Software, hardware, AI: I connect what belongs together.**
 
-Computer scientist (B.Sc., Hochschule Darmstadt) from the Frankfurt/Rhine-Main area.
+Computer scientist (B.Sc., Hochschule Darmstadt).
 I build things where AI, software and hardware meet, and that actually run in the end:
 Linux infrastructure, IoT, real-time speech transcription and digital twins.
+I use AI where it solves a real problem, not because it's the trend.
 
 🌐 **[julian.kropp.link](https://julian.kropp.link)** – projects, CV and contact
 
