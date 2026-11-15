@@ -1,57 +1,58 @@
-<h1 align="center">Hey there 👋. My name is Julian 😊</h1>
-<h3 align="center">I am a technology enthusiast 🚀👨‍💻 dedicated to creating innovative projects 💡🤖 that not only assist people 👥🌍 but also demonstrate the cutting-edge capabilities of modern technology 📱💻🔧.</h3>
+<img src="assets/portrait.webp" alt="Julian Kropp" width="170" align="right">
 
----
+# Hi, I'm Julian 👋
 
-<table align="center">
+**IT & Innovation. Software, hardware, AI: I connect what belongs together.**
+
+Computer scientist (B.Sc., Hochschule Darmstadt) from the Frankfurt/Rhine-Main area.
+I build things where AI, software and hardware meet, and that actually run in the end:
+Linux infrastructure, IoT, real-time speech transcription and digital twins.
+
+🌐 **[julian.kropp.link](https://julian.kropp.link)** – projects, CV and contact
+
+<br clear="right">
+
+### Some projects
+
+<table>
   <tr>
-    <td align="center" width="50%">
-      <p>🔭 I'm currently working on:</p>
-      <a href="https://github.com/bigbluebutton-bot/bbb-translation-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bigbluebutton-bot&repo=bbb-translation-bot&theme=radical" />
-      </a>
+    <td width="33%" valign="top">
+      <a href="https://julian.kropp.link/#bot"><img src="assets/bot.webp" alt="BigBlueButton translation bot"></a>
+      <b><a href="https://github.com/bigbluebutton-bot">BBB Translation Bot</a></b><br>
+      <sub>Live captions and translation for video conferences</sub>
     </td>
-    <td align="center" width="50%">
-      <p>🤝 I'm looking for help with:</p>
-      <a href="https://github.com/bigbluebutton-bot/bigbluebutton-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bigbluebutton-bot&repo=bigbluebutton-bot&theme=radical" />
-      </a>
+    <td width="33%" valign="top">
+      <a href="https://julian.kropp.link/#sorter"><img src="assets/sorter.webp" alt="AI marble sorter"></a>
+      <b><a href="https://github.com/ITLab-CC/Sorter">AI Sorter</a></b><br>
+      <sub>Camera-based marble sorter with a digital twin</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://julian.kropp.link/#growbox"><img src="assets/growbox.webp" alt="Smart GrowBox"></a>
+      <b><a href="https://julian.kropp.link/#growbox">Smart GrowBox</a></b><br>
+      <sub>Hydroponics with sensors and a web portal</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://julian.kropp.link/#platine"><img src="assets/relay.webp" alt="Smart relay PCB"></a>
+      <b><a href="https://github.com/JulianKropp/smart-relay">Smart Relays</a></b><br>
+      <sub>Custom PCB and firmware</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://julian.kropp.link/#graffiti"><img src="assets/graffiti.webp" alt="Virtual graffiti"></a>
+      <b><a href="https://github.com/ITLab-CC/Virtual-Graffiti">Virtual Graffiti</a></b><br>
+      <sub>Spray on a wall without any paint</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://julian.kropp.link/#fotobox"><img src="assets/fotobox.webp" alt="Photo booth"></a>
+      <b><a href="https://github.com/ITLab-CC/photobooth">Photo Booth</a></b><br>
+      <sub>Self-built, at every party</sub>
     </td>
   </tr>
 </table>
 
-<p align="center">🌱 I'm currently learning Kubernetes</p>
-<p align="center">
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
+### Tools I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,debian,docker,ansible,kubernetes,git,python,go,cpp,arduino,raspberrypi,postgres,grafana,opencv&perline=14" alt="Linux, Debian, Docker, Ansible, Kubernetes, Git, Python, Go, C++, Arduino, Raspberry Pi, PostgreSQL, Grafana, OpenCV">
 </p>
-
-
-
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
----
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/juliankropp">
-        <img src="https://github-readme-stats.vercel.app/api?username=juliankropp&show_icons=true&locale=en&theme=radical" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/juliankropp">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliankropp&theme=radical" alt="juliankropp's GitHub streak" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<div style="clear: both;"></div>
